@@ -20,9 +20,7 @@ It’s one of the best resources to practice SQL effectively and enjoyably.
 ## 📚 What This Repo Includes
 
 - 📘 **Tutorial Notes**: Key concepts, syntax, and examples from DataLemur’s tutorials  
-- ❓ **Solved Questions**: My SQL solutions to interview-style problems  
-- 🧠 **Tips & Tricks**: Optimizations, query breakdowns, and alternative approaches  
-- 🔍 **Explanation First**: Most solutions are explained step-by-step before the code  
+- ❓ **Solved Questions**: My SQL solutions to interview-style problems    
 
 ---
 
@@ -59,7 +57,7 @@ Whether you're prepping for interviews or just trying to level up your SQL game,
 ## 📌 Credits
 
 - 🦥 [DataLemur](https://datalemur.com/) – Original questions & tutorials  
-- 💻 Maintained by: Bindhuuuuu  
+- 💻 Maintained by: [Bindhhuu](https://github.com/Bindhhuu)  
 
 ---
 
